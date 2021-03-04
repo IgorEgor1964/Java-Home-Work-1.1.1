@@ -31,6 +31,7 @@
 В результате тестирования выявлены следующие дефекты:
 
 -https://github.com/IgorEgor1964/Java-Home-Work-1.1.1/issues/1
+
 -https://github.com/IgorEgor1964/Java-Home-Work-1.1.1/issues/2
 
 ### Описание процесса тестирования:
@@ -44,6 +45,7 @@
 - валидные и невалидные ключи
 - Шаг 1: открыть терминал Windows
 - Шаг 2: проверить версию Java
+
   ![image](https://user-images.githubusercontent.com/77262709/109913870-7c0fa380-7cfa-11eb-967f-b8f763503b9e.png)
 - Шаг 3: ввести валидный ключ 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998 
   ![image](https://user-images.githubusercontent.com/77262709/109914150-14a62380-7cfb-11eb-88b9-f9a11b88c927.png)
